@@ -1,3 +1,0 @@
-// hi tensai to gensai 
-
-
